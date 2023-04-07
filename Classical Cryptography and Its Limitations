@@ -1,0 +1,19 @@
+Classical Cryptography and Its Limitations: A Review and Comparison with Quantum Cryptography
+Ashwin Bhat
+220962412
+
+With the emergence of quantum computing, the shortcomings of classical cryptography have become increasingly evident. As a result, despite being the foundation of secure communication throughout history, classical cryptography has become insufficient in the modern world. I would like to draw attention to the contrasting features between classical and quantum cryptography by emphasizing the immense benefits of the latter.
+
+Preventing unauthorized access through mathematical algorithms is how the classical cryptography method works. But with the increased computing power, this approach has become much more vulnerable to attacks. On the other hand, quantum mechanics principles carry the responsibility of securing communication in quantum cryptography.
+
+Quantum cryptography's immense benefit lies in its impossible interception of a message without disruption of its quantum state, leading to an exceptionally secure communication mode. This, however, is not without its drawbacks.
+
+The limitations of quantum cryptography pose significant challenges to its potential for secure communication. The transmission of quantum states in quantum key distribution (QKD) has a limited distance for use, making it vulnerable. Classical cryptography is reliable, yet its algorithms have become increasingly apparent due to the power of modern computing. Effective secure communication in the future could be achieved with a combination of classical and quantum cryptography as quantum cryptography has its own limitations. Despite this, it presents a promising alternative option.
+
+
+Bibliography:
+•	Quantum Cryptography & its Comparison with Classical Cryptography: A Review Paper Aakash Goyal, Sapna Aggarwal and Aanchal Jain
+https://www.apiit.edu.in/downloads/all%20chapters/CHAPTER-94.pdf
+•	Analysis of Cryptography: Classical verses Quantum Cryptography Pooja Anil Patil, Renuka Boda
+https://www.irjet.net/archives/V3/i5/IRJET-V3I5281.pdf
+
